@@ -2,7 +2,7 @@
 
 
   body {
-  background-color: #B3B6B7;
+  background-color: #ffa69e;
 }
 
 
@@ -35,7 +35,7 @@ li a{
 
   li a:hover {
   color: #dfe7fd;
-    background-color: gray;
+    background-color: #e56b6f;
     transition: 0.4s;
     font-size: 20px;}
       
