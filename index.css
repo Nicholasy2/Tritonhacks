@@ -72,7 +72,7 @@
 
 body {
   background-color: #e56b6f;
-  background: url("https://i.redd.it/2sbp2yzmu2s41.png") no-repeat center center fixed; 
+  background: url(https://i.redd.it/2sbp2yzmu2s41.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
