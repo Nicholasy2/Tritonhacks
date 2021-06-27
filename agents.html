@@ -171,8 +171,13 @@ body {
   flex: 20%;
   float: left;
   padding: 5px;
+    border: 3px solid transparent;
+  transition: all 0.4s;
 }
-
+.container:hover {
+  border: 3px solid white;
+  letter-spacing: 5px;
+}
 .player {
   display: block;
   width: 100%;
@@ -199,6 +204,7 @@ body {
 
 .caption {
   color: white;
+    transition: all 0.4s;
   font-size: 24px;
   position: absolute;
   top: 50%;
@@ -208,7 +214,10 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
 }
-
+.caption:hover {
+  background-color: #8d99ae;
+  border: 2px solid white;
+}
 .transparent {
    position: relative;
   width: 15%;
