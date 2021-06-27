@@ -72,7 +72,11 @@
 
 body {
   background-color: #e56b6f;
-  background-image: url("https://wallpaperaccess.com/full/5400544.jpg");
+  background: url(https://i.redd.it/2sbp2yzmu2s41.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   left: 1000px;
 }
 
@@ -80,7 +84,7 @@ body {
   font-size: 100px;
   font-family: monospace;
   text-align: center;
-  color: #f5cac3;
+  color: #f08080;
 }
 
 p {
